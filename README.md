@@ -39,6 +39,9 @@ The primary objective of this dashboard is to help stakeholders at Atliq Hardwar
 2. Open it using Tableau Desktop or Tableau Public.
 3. Interact with filters to explore different time frames and categories.
 
+****##Link to Tableau Workbook**
+https://prod-apsoutheast-b.online.tableau.com/#/site/anupreetyadav2222-81760804e7/views/SalesInsightsProject/Dashboard1?:iid=1
+
 ## Author
 
 Anupreet Yadav  
