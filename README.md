@@ -45,8 +45,8 @@ https://prod-apsoutheast-b.online.tableau.com/#/site/anupreetyadav2222-81760804e
 ## Author
 
 Anupreet Yadav  
-[LinkedIn Profile](https://www.linkedin.com/in/anupreet-yadav)  
-[GitHub Portfolio](https://github.com/anupreet-yadav)
+[LinkedIn Profile]: Anupreet1601
+[GitHub Portfolio]: anupreet-yadav)
 
 ---
 
